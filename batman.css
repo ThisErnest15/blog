@@ -1,0 +1,14 @@
+.b-photo {
+    width: 30vw;
+    border-radius: 60%;
+    margin-left: 35vw;
+}
+
+.b-text {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.b-video {
+    margin-left: 15vw;
+}
